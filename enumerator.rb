@@ -1,4 +1,4 @@
-require 'fiber'
+require "fiber"
 
 module MyEnumerable
   def count(&block)
